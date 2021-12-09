@@ -18,7 +18,7 @@ bot = commands.Bot(
     command_prefix=os.getenv("PREFIX"), 
     intents=intents, 
     description=description,
-    test_guilds = [491700910712684554],
+    test_guilds=[491700910712684554,684421183533613056],
     sync_commands = True)
 
 #Load cogs into the bot
