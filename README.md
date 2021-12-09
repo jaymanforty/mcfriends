@@ -11,9 +11,9 @@ A discord bot to query stats from my minecraft FTP server
 ###### Knowledge on how to start and run python scripts assumed
 - Python version 3.9 required
 - packages required 
-		pip install python-dotenv
-		pip install requests
-		pip install -U disnake
+	-pip install python-dotenv
+	-pip install requests
+	-pip install -U disnake
 
 
 
